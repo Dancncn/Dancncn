@@ -8,7 +8,15 @@
 <br/><br/>
 
 <a href="https://danarnoux.com/"><img src="https://img.shields.io/badge/Blog-danarnoux.com-b47e24?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>&nbsp;
+<a href="https://creatinf.com/"><img src="https://img.shields.io/badge/Creatinf-creatinf.com-7c3aed?style=flat-square" alt="Creatinf" /></a>&nbsp;
 <a href="https://space.bilibili.com/435440676"><img src="https://img.shields.io/badge/Bilibili-435440676-00a1d6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+
+<br/><br/>
+
+<i>I value practical engineering, clear reasoning, and systems that can be explained and reproduced.<br/>
+I build tools I use every day, and write about the decisions behind them.</i>
+
+<a href="https://danarnoux.com/about/">Learn more about me →</a>
 
 </div>
 
@@ -24,6 +32,12 @@
 
 Static blog built with **Astro + Tailwind**, deployed on Cloudflare. Features AI comment moderation, GitHub OAuth, and full-stack Workers backend (D1, R2, KV).
 
+<p>
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" height="20" alt="Astro" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="20" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" height="20" alt="Cloudflare" />
+</p>
+
 <a href="https://danarnoux.com/"><img src="https://img.shields.io/badge/Website-danarnoux.com-b47e24?style=flat-square" alt="Website" /></a>
 <img src="https://img.shields.io/github/stars/Dancncn/DansBlog?style=flat-square&color=b47e24" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Dancncn/DansBlog?style=flat-square&color=e4e4e7" alt="Forks" />
@@ -34,6 +48,12 @@ Static blog built with **Astro + Tailwind**, deployed on Cloudflare. Features AI
 ### [babel-window-translator](https://github.com/Dancncn/babel-window-translator)
 
 Frameless, always-on-top desktop translation sidebar for Windows. Built with **Tauri + Vue + Rust**, supports OCR screen capture and any OpenAI-compatible API.
+
+<p>
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white" height="20" alt="Tauri" />
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" height="20" alt="Vue" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" height="20" alt="Rust" />
+</p>
 
 <img src="https://img.shields.io/github/stars/Dancncn/babel-window-translator?style=flat-square&color=b47e24" alt="Stars" />
 
@@ -46,6 +66,12 @@ Frameless, always-on-top desktop translation sidebar for Windows. Built with **T
 
 Multiplayer online card game with bluffing/challenge mechanics. Pure **TypeScript** engine with single authoritative state machine, WebSocket multiplayer, and anti-cheat by design.
 
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" height="20" alt="Node.js" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" height="20" alt="WebSocket" />
+</p>
+
 <a href="https://lumera.danarnoux.com/"><img src="https://img.shields.io/badge/Play-lumera.danarnoux.com-b47e24?style=flat-square" alt="Play" /></a>
 <img src="https://img.shields.io/github/stars/Dancncn/Lumera?style=flat-square&color=b47e24" alt="Stars" />
 
@@ -55,6 +81,11 @@ Multiplayer online card game with bluffing/challenge mechanics. Pure **TypeScrip
 ### [AI-Session-Transfer](https://github.com/Dancncn/AI-Session-Transfer)
 
 Lightweight tool to sync and migrate local chat sessions for **Codex & Claude Code** across different AI providers and middle-stations.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" height="20" alt="Node.js" />
+</p>
 
 <img src="https://img.shields.io/github/stars/Dancncn/AI-Session-Transfer?style=flat-square&color=b47e24" alt="Stars" />
 
