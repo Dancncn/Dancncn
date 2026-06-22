@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
-  <img src="./assets/terminal-light.svg" width="100%" alt="Dan's Terminal" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Dan's Terminal" />
 </picture>
 
 <br/><br/>
