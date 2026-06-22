@@ -7,9 +7,10 @@
 
 <br/><br/>
 
-<a href="https://danarnoux.com/"><img src="https://img.shields.io/badge/Blog-danarnoux.com-b47e24?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>&nbsp;
-<a href="https://creatinf.com/"><img src="https://img.shields.io/badge/Creatinf-creatinf.com-7c3aed?style=flat-square" alt="Creatinf" /></a>&nbsp;
-<a href="https://space.bilibili.com/435440676"><img src="https://img.shields.io/badge/Bilibili-435440676-00a1d6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+<a href="https://danarnoux.com/"><img src="https://img.shields.io/badge/Blog-danarnoux.com-b47e24?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>&nbsp;
+<a href="https://creatinf.com/"><img src="https://img.shields.io/badge/Creatinf-creatinf.com-7c3aed?style=for-the-badge" alt="Creatinf" /></a>&nbsp;
+<a href="https://lumera.danarnoux.com/"><img src="https://img.shields.io/badge/Lumera-Play_Online-059669?style=for-the-badge" alt="Lumera" /></a>&nbsp;
+<a href="https://space.bilibili.com/435440676"><img src="https://img.shields.io/badge/Bilibili-435440676-00a1d6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
 
 <br/><br/>
 
