@@ -20,15 +20,6 @@
     <clipPath id="frame">
       <rect width="840" height="230" rx="18"/>
     </clipPath>
-    <clipPath id="tw">
-      <rect x="24" y="80" width="0" height="26">
-        <animate attributeName="width"
-          values="13;25;37;49;61;73;85;97;109;130;130"
-          keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"
-          calcMode="discrete"
-          dur="1s" fill="freeze" begin="0.5s"/>
-      </rect>
-    </clipPath>
   </defs>
 
   <g clip-path="url(#frame)">
@@ -49,9 +40,18 @@
       <tspan x="24" fill="url(#gold)">dan@github</tspan><tspan fill="#a1a1aa">:~$</tspan><tspan dx="8" fill="#3f3f46">whoami</tspan>
     </text>
 
-    <text x="24" y="98" clip-path="url(#tw)"
+    <text x="24" y="98"
           font-family="Consolas,'Liberation Mono',Menlo,Courier,monospace"
           font-size="18" font-weight="bold" fill="url(#gold)">Dan Arnoux</text>
+
+    <rect x="200" y="82" width="200" height="22" fill="#ffffff">
+      <set attributeName="x" to="24" begin="0s"/>
+      <animate attributeName="x"
+        values="24;37;49;61;73;85;97;109;121;133;200"
+        keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"
+        calcMode="discrete"
+        dur="1s" fill="freeze" begin="0.5s"/>
+    </rect>
 
     <text x="24" y="118"
           font-family="Consolas,'Liberation Mono',Menlo,Courier,monospace"
