@@ -44,14 +44,6 @@
           font-family="Consolas,'Liberation Mono',Menlo,Courier,monospace"
           font-size="18" font-weight="bold" fill="url(#gold)">Dan Arnoux</text>
 
-    <rect x="200" y="82" width="200" height="22" fill="#0f0f11">
-      <set attributeName="x" to="24" begin="0s"/>
-      <animate attributeName="x"
-        values="24;37;49;61;73;85;97;109;121;133;200"
-        keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"
-        calcMode="discrete"
-        dur="1s" fill="freeze" begin="0.5s"/>
-    </rect>
 
     <text x="24" y="118"
           font-family="Consolas,'Liberation Mono',Menlo,Courier,monospace"
