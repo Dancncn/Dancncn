@@ -79,16 +79,18 @@ Multiplayer online card game with bluffing/challenge mechanics. Pure **TypeScrip
 </td>
 <td width="50%" valign="top">
 
-### [AI-Session-Transfer](https://github.com/Dancncn/AI-Session-Transfer)
+### [Demiurge](https://github.com/Dancncn/Demiurge)
 
-Lightweight tool to sync and migrate local chat sessions for **Codex & Claude Code** across different AI providers and middle-stations.
+Lightweight, open-source desktop companion Agent engine built with **Rust + Tauri + React**. Local-first framework for streaming chat, tool use, memory, sub-agents, and JSON DSL workflow orchestration.
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" height="20" alt="Node.js" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" height="20" alt="Rust" />
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white" height="20" alt="Tauri" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20" alt="TypeScript" />
 </p>
 
-<img src="https://img.shields.io/github/stars/Dancncn/AI-Session-Transfer?style=flat-square&color=b47e24" alt="Stars" />
+<img src="https://img.shields.io/github/stars/Dancncn/Demiurge?style=flat-square&color=b47e24" alt="Stars" />
 
 </td>
 </tr>
@@ -113,14 +115,8 @@ Lightweight tool to sync and migrate local chat sessions for **Codex & Claude Co
 
 ## GitHub Stats
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dancncn&show_icons=true&hide_rank=true&title_color=e2be6e&icon_color=e2be6e&text_color=a1a1aa&bg_color=0f0f11&border_color=27272a&border_radius=12">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dancncn&show_icons=true&hide_rank=true&title_color=b47e24&icon_color=b47e24&text_color=52525b&bg_color=ffffff&border_color=e4e4e7&border_radius=12" height="180" alt="GitHub Stats" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dancncn&layout=compact&hide=c%2B%2B,c&title_color=e2be6e&text_color=a1a1aa&bg_color=0f0f11&border_color=27272a&border_radius=12">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dancncn&layout=compact&hide=c%2B%2B,c&title_color=b47e24&text_color=52525b&bg_color=ffffff&border_color=e4e4e7&border_radius=12" height="180" alt="Top Languages" />
-</picture>
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDancncn&label=Followers&query=%24.followers&color=b47e24&style=flat-square&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDancncn&label=Public%20Repos&query=%24.public_repos&color=b47e24&style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
+<img src="https://img.shields.io/badge/Member%20Since-2022-b47e24?style=flat-square&logo=github&logoColor=white" alt="Member Since" />
+</p>
